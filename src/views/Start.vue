@@ -32,8 +32,10 @@
     height: 400px;
     object-fit: cover;
 }
+h1 {padding: 20px 0;
+}
 .content_container {
-    width: 100%;
+    width: 90%;
     max-width: 800px;
     margin: auto;
     line-height: 1.4em;

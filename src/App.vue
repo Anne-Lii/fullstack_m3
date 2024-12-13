@@ -24,10 +24,13 @@
   nav {
   background-color: #a0d7fc;
   padding: 10px;
+  text-align: center;
   }
   nav a {
-    margin: 0 10px;
+    margin: 0 50px;
     text-decoration: none;
     color: #000000;    
+    font-size: 20px;
+    font-weight: 600;
   }
 </style>

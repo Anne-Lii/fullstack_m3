@@ -136,6 +136,7 @@
         margin: 20px auto;
         padding: 20px;        
     }
+ 
     .form_container {
         padding: 20px;
         border: 1px solid grey;
