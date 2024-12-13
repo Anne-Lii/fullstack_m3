@@ -33,6 +33,7 @@
     font-size: 20px;
     font-weight: 600;
   }
+  
   /* Media query för mindre skärmar */
   @media (max-width: 600px) {
     nav {
@@ -41,8 +42,8 @@
     }
 
     nav a {
-      margin: 10px 0; /* Lägg avstånd mellan knapparna */
-      font-size: 16px; /* Gör texten lite mindre */
+      margin: 10px; 
+      font-size: 16px; 
     }
   }
 
