@@ -51,4 +51,17 @@
         border-radius: 5px;        
     }
 
+    /* Media query för mindre skärmar */
+  @media (max-width: 600px) {
+  
+    .wrapper {
+        width: 90%;
+        max-width: 600px;
+        margin: 20px auto;
+        padding: 10px; 
+        font-size: 16px;
+        border-radius: none;        
+    }
+  }
+
 </style>

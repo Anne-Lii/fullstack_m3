@@ -111,6 +111,7 @@
       </div>
   
       <div v-if="loading">Laddar data...</div>
+      
       <div v-else>
         <div v-for="fish in fishData" :key="fish._id" class="fish-item">
           <h3>{{ fish.commonName }}</h3>
