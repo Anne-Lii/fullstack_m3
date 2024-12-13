@@ -33,4 +33,17 @@
     font-size: 20px;
     font-weight: 600;
   }
+  /* Media query för mindre skärmar */
+  @media (max-width: 600px) {
+    nav {
+      width: 100%;
+      padding: 10px;
+    }
+
+    nav a {
+      margin: 10px 0; /* Lägg avstånd mellan knapparna */
+      font-size: 16px; /* Gör texten lite mindre */
+    }
+  }
+
 </style>
