@@ -8,8 +8,8 @@
   <div>
     <header>
       <nav>
-        <router-link to="/">Start</router-link>
-        <router-link to="/fish">Fish</router-link>
+        <router-link to="/">Startsidan</router-link>
+        <router-link to="/fish">Fiskar</router-link>
         <router-link to="/info">Info</router-link> 
         
       </nav>
@@ -22,12 +22,12 @@
 
 <style scoped>
   nav {
-  background-color: #f4f4f4;
+  background-color: #a0d7fc;
   padding: 10px;
   }
   nav a {
     margin: 0 10px;
     text-decoration: none;
-    color: #000000;
+    color: #000000;    
   }
 </style>
